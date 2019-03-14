@@ -1,6 +1,6 @@
 # demo_git
 Une démo de git
-Je test
-# Quatrième ligne 
-Et je modifie depuis GitHub
-Et maintenant de puis ma machine Terence-Probook et c'est cool
+
+Ce repository git est un espace de test créé par Térence Medemblik et destiné à son unique usage.
+Auteur :
+Térence Medemblik
